@@ -5,3 +5,9 @@ node_modules
 *.tfstate.backup
 credentials
 .pytest_cache
+# AWS CLI installer files
+setup/terraform/aws/
+setup/terraform/awscliv2.zip
+
+# Terraform state
+*.tfstate
